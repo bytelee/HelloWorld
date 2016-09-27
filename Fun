@@ -1,0 +1,9 @@
+<html>
+  <Head>
+    <H1>For fun.</H1>
+  </Head>
+  
+  <body>
+    <H2>Let's do it for fun</H2>
+  </body>
+</html>
